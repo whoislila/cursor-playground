@@ -1,0 +1,7 @@
+[
+  {"product": "keyboard", "amount": 299, "quantity": 2},
+  {"product": "mouse", "amount": 89, "quantity": 5},
+  {"product": "keyboard", "amount": 299, "quantity": 1},
+  {"product": "monitor", "amount": 1299, "quantity": 1},
+  {"product": "mouse", "amount": 89, "quantity": 3}
+]
