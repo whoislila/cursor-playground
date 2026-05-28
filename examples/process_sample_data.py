@@ -15,7 +15,7 @@ from pathlib import Path
 # Allow running without ``pip install -e .``
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
-from new_project.data_loader import (  # noqa: E402
+from cursor_demo_project.data_loader import (  # noqa: E402
     load_sales_json,
     load_users_csv,
     process_sample_data,

@@ -8,7 +8,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
-# Project root: src/new_project/ -> src/ -> project root
+# Project root: src/cursor_demo_project/ -> src/ -> project root
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_DATA_DIR = PROJECT_ROOT / "data"
 

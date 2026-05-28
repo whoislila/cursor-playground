@@ -4,8 +4,8 @@ import sys
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        prog="new-project",
-        description="new-project CLI",
+        prog="cursor-demo",
+        description="cursor-demo-project CLI",
     )
     subparsers = parser.add_subparsers(dest="command", required=True)
 
